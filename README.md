@@ -7,7 +7,7 @@ I write articles on my blog: https://bartblaze.blogspot.com/
 
 ### Support 
 
-Did I help you out? Consider buying me a coffee! Thank you for your support.
+Did I help you out with any of the Git projects, tooling, post, blog articles, ...? Consider buying me a coffee! ☕ Thank you for your support.
 
 
 <a href="https://www.buymeacoffee.com/bartblaze" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
