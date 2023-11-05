@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-My name is Bart. I work in infosec or information security, mainly as a blue teamer. 
+My name is Bart. I work in infosec or information security (cyber security), mainly as a blue teamer. 
+
 On my Github, you can find multiple projects I've created. 
+
 I write articles on my blog: https://bartblaze.blogspot.com/
 
 
