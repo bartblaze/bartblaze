@@ -6,6 +6,8 @@ On my Github, https://github.com/bartblaze, you can find multiple projects I've 
 
 I write articles on my blog: https://bartblaze.blogspot.com/
 
+You can also find me on Twitter / X: https://twitter.com/bartblaze
+
 
 ### Support 
 
